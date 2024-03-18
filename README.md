@@ -4,7 +4,7 @@ This project is my personal attempt to explore time series machine learning (ML)
 
 ## Dataset Overview
 
-The analysis focuses exclusively on the `train.csv` file, specifically data from `store_nbr` 5. This subset contains approximately 55,000 data points across 33 categories in the 'family' column. For this project, I will only use data from the AUTOMOTIVE category, which totals 1,684 data points.
+The analysis focuses exclusively on the `train.csv` file, specifically data from `store_nbr` 5. This subset contains approximately 55,000 data points across 33 categories in the 'family' column. For this project, I will only use data from the AUTOMOTIVE category, which totals 1,684 data points. The dataset with the relevant columns are compiled in `store5.csv` that I uploaded here as well
 
 ## Modeling Approaches
 
